@@ -13,10 +13,10 @@ Esta es la asignatura más divertida, también tenemos muchas más asignaturas, 
 ```
 
 ### Programación
-Si quieres informarte sobre esta asignatura pusla [Aquí](link)
+Si quieres informarte sobre esta asignatura pusla [Aquí](https://sandralopezzarzuela.github.io/Programación/)
 
 ### FOL
-Si quieres informarte sobre esta asignatura pulsa [Aquí](link)
+Si quieres informarte sobre esta asignatura pulsa [Aquí](https://sandralopezzarzuela.github.io/Fol/)
 You can use the [editor on GitHub](https://github.com/SandraLopezZarzuela/Entorns/edit/main/docs/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
